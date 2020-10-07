@@ -26,4 +26,4 @@
      
    # سوابق تحصیلی
      
-   Education 
+   -  Education 
