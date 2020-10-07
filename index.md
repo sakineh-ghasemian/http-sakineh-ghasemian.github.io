@@ -4,14 +4,14 @@
 
 # مشخصات فردی 
 
-- نام و نام خانوادگی : سکینه قاسمیان رستاقی
+ - نام و نام خانوادگی : سکینه قاسمیان 
 
- full name : sakineh ghasemian rastaghi
+ full name : sakineh ghasemian 
  
  -  سن: ۳۲ سال
   
-  yers 32: age
+  yers 32 :age
  
- - محل سکونت : تهران ، پردیس
+  -محل سکونت : تهران ، پردیس
  
  
