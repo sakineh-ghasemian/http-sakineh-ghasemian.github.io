@@ -25,6 +25,19 @@
  - Email:ghasmian6660@gmail.com 
  
 # سوابق تحصیلی
+
+- Education
+
+- مقطع تحصیلی:کارشناسی
+
+- Grad:master
+
+- رشته تحصیلی:مهندسی کامپیوتر
+
+- Field of study:Computer Engineering
+
+
+
  
 
      
