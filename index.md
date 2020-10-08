@@ -38,11 +38,11 @@
 
 - نام دانشگاه: پیام نور
 
-- University name: payam 
+- University name: payam
+
+#  سوابق کاری
  
- #  سوابق کاری
- 
- # Resume 
+  # Resume 
  
  - ندارم
  
