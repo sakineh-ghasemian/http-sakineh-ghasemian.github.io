@@ -48,7 +48,7 @@
  
  - I don't have
  
- # سوابق آموزشی 
+ # سوابق آموزشی
  
  - Educational experience 
  
