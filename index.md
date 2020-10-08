@@ -54,3 +54,5 @@
 
 - cآموزش نسبی اکسل ، ورد ، برنامه نویسی
  
+
+- proximate learning of Exel , word , programming 
