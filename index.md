@@ -22,7 +22,7 @@
    
    -  ایمیل : ghasmian6660@gmail.com 
    
-    Email : ghasmian6660@gmail.com 
+    Email:ghasmian6660@gmail.com 
  
 # سوابق تحصیلی
  
