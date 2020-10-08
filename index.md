@@ -55,4 +55,16 @@
 - cآموزش نسبی اکسل ، ورد ، برنامه نویسی
  
 
-- proximate learning of Exel , word , programming 
+- proximate learning of Exel , word , programming c
+
+# شبکه های اجتماعی
+
+- Social Networks
+
+- تلگرام : sghasemian
+
+- telegram: sghasemian
+
+- Instagram : 
+
+
