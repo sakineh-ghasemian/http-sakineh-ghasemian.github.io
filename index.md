@@ -6,23 +6,23 @@
 
  - نام و نام خانوادگی : سکینه قاسمیان 
 
-    full name : sakineh ghasemian 
+ - full name : sakineh ghasemian 
  
  -  سن: ۳۲ سال
   
-  yers 32 :age
+ - age:yers 32
  
-  -  محل سکونت : تهران ، پردیس
+ - محل سکونت : تهران ، پردیس
  
-       address: iran , Tehran, pardis 
+ - address: iran , Tehran, pardis 
      
-   -   تلفن همراه: ۰۹۱۹۸۲۹۸۳۲۵ 
+ -  تلفن همراه: ۰۹۱۹۸۲۹۸۳۲۵ 
    
-   John number :09198298325
+ -  John number :09198298325
    
-   -  ایمیل : ghasmian6660@gmail.com 
+ - ایمیل : ghasmian6660@gmail.com 
    
-    Email:ghasmian6660@gmail.com 
+ - Email:ghasmian6660@gmail.com 
  
 # سوابق تحصیلی
  
