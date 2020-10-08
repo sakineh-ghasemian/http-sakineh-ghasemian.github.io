@@ -1,6 +1,7 @@
 # welcom
 
-https://8pic.ir/uploads/۲۰۲۰۰۱۲۳-۱۲۴۲۳۲.jpg
+
+<a href="https://8pic.ir/" target="_blank" title="آپلود عکس"><img src="https://8pic.ir/uploads/۲۰۲۰۱۰۰۸-۱۳۴۴۵۸_f4f2b.jpg" border="0" alt="آپلود عکس"></a>
 # مشخصات فردی 
 
  - نام و نام خانوادگی : سکینه قاسمیان 
