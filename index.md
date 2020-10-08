@@ -36,6 +36,8 @@
 
 - Field of study:Computer Engineering
 
+- نام دانشگاه: پیام نور
+
 
 
  
