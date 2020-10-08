@@ -40,6 +40,17 @@
 
 - University name: payam 
  
+ # سوابق کاری
+ 
+ # Resume 
+ 
+ - ندارم
+ 
+ - I don't have 
+ 
+ # سوابق آموزشی 
+ 
+ # Educational experience 
 
      
 
