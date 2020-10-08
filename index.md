@@ -40,9 +40,7 @@
 
 - University name: payam
 
-#  سوابق کاری
- 
-  # Resume 
+# سوابق 
  
  - ندارم
  
