@@ -2,9 +2,8 @@
 
 
 
-#<a href="https://8pic.ir/" target="_blank" title="آپلود عکس"><img src="https://8pic.ir/uploads/۲۰۲۰۱۰۰۸-۱۸۰۰۳۲.jpg" border="0" alt="آپلود عکس"></a> 
- # مشخصات فردی 
-
+<a href="https://8pic.ir/" target="_blank" title="آپلود عکس"><img src="https://8pic.ir/uploads/۲۰۲۰۱۰۰۸-۱۸۰۰۳۲.jpg" border="0" alt="آپلود عکس"></a> 
+# مشخصات فردی
  - نام و نام خانوادگی : سکینه قاسمیان 
 
  - full name : sakineh ghasemian 
