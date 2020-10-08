@@ -1,6 +1,5 @@
 # welcom
 
-[image](src)
 https://8pic.ir/uploads/۲۰۲۰۰۱۲۳-۱۲۴۲۳۲.jpg
 # مشخصات فردی 
 
