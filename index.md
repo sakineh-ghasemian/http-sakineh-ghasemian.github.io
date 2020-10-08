@@ -25,6 +25,6 @@
    Email : ghasmian6660@gmail.com 
      
      
-# سوابق تحصیلی
+ # سوابق تحصیلی
      
  - Education 
