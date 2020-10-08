@@ -46,7 +46,7 @@
 
 - ندارم
 
--I don't have
+- I don't have
 
 # سوابق آموزشی 
      
