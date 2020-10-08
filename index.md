@@ -40,15 +40,17 @@
 
 - University name: payam
 
-# سوابق 
+# سوابق کاری
+
+- Resume
+
+- ندارم
  
- - ندارم
- 
- - I don't have 
+ - I don't have
  
  # سوابق آموزشی 
  
- # Educational experience 
+ - Educational experience 
  
  - یادگیری نسبی اکسل ، ورد ، برنامه نویسی 
 
