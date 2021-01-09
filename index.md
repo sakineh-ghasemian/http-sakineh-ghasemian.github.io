@@ -4,69 +4,57 @@
 
 <a href="https://8pic.ir/" target="_blank" title="آپلود عکس"><img src="https://8pic.ir/uploads/۲۰۲۰۱۰۰۸-۱۸۰۰۳۲.jpg" border="0" alt="آپلود عکس"></a> 
 # مشخصات فردی
- - نام و نام خانوادگی : سکینه قاسمیان 
-
- - full name : sakineh ghasemian 
  
- -  سن: ۳۲ سال
+ - .درباره من :متاهل هستم دارای یک فرزند برای رسیدن به هدفم تمام تلاشم را می کنم
+ 
+ - نام و نام خانوادگی : سکینه قاسمیان رستاقی 
+
+ - تاریخ تولد :۱۳۶۶/۶/۱
+ 
+ -  سن: ۳۳ سال
   
- - age:yers 32
+ - وضعیت تاهل :متاهل 
  
  - محل سکونت : تهران ، پردیس
  
- - address: iran , Tehran, pardis 
+ - تلفن ثابت:۰۲۱۷۶۲۸۹۲۰۰
      
  -  تلفن همراه: ۰۹۱۹۸۲۹۸۳۲۵ 
    
- -  John number :09198298325
-   
  - ایمیل : ghasmian6660@gmail.com 
    
- - Email:ghasmian6660@gmail.com 
  
 # سوابق تحصیلی
 
-- Education
+- دیپلم :تجربی
 
 - مقطع تحصیلی:کارشناسی
 
-- Grad:master
-
 - رشته تحصیلی:مهندسی کامپیوتر
 
-- Field of study:Computer Engineering
+- گرایش: نرم افزار  
 
 - نام دانشگاه: پیام نور
 
-- University name: payam
+- واحد :شهر پردیس
+
+- ورودی سال:۱۳۹۷ 
+
+- شماره دانشجویی : ۹۷۰۰۴۳۴۳۷ 
 
 # سوابق کاری
 
-- Resume
-
 - ندارم
-
-- I don't have
 
 # سوابق آموزشی
 
-- Educational experience
-
 - cآموزش نسبی اکسل ، ورد ، برنامه نویسی
- 
 
-- proximate learning of Exel , word , programming c
 
 # شبکه های اجتماعی
 
-- Social Networks
-
 - تلگرام : sghasemian
 
-- telegram: sghasemian
-
 - اینستاگرام : ghasemian66608
-
-- Instagram : ghasemian66608
 
 
