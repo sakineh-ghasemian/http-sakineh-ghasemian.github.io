@@ -57,11 +57,11 @@
 
 # سوابق آموزشی
 
-- c برنامه نویسی
+- C برنامه نویسی
 
-- word
+- Word
 
-- powerpoint 
+- Powerpoint 
 
 - Excel
 
